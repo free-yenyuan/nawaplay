@@ -1,0 +1,2 @@
+*.gz filter=lfs diff=lfs merget=lfs -text
+*.png filter=lfs diff=lfs merget=lfs -text
